@@ -113,5 +113,4 @@ Documentation search is powered by [Algolia's DocSearch](https://community.algol
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2019 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
-
+ Code released under the [MIT License]([https://github.com/Dilshan97/SellNBy-e-commerce-system-PAF/blob/master/LICENSE](https://github.com/Dilshan97/SellNBy-e-commerce-system-PAF/blob/master/LICENSE)).
