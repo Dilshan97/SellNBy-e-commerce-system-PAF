@@ -3,7 +3,7 @@ package com.elitlabs.ecommerce.models;
 import javax.persistence.*;
 
 @Entity
-@Table(name="UserService")
+@Table(name="User")
 public class UserDTO {
 
     @Id
