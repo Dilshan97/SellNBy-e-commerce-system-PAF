@@ -1,3 +1,5 @@
+/*Author Nuwan Chamikara*/
+
 package com.elitlabs.ecommerce.models;
 
 import javax.persistence.*;

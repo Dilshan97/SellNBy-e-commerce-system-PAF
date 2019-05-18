@@ -25,9 +25,9 @@ public class Item {
         return itemService.saveItem(itemData);
     }
 
-    @PutMapping("/update")
-    public String updateItem(@RequestBody ItemDTO itemData){
-        return itemService.updateItem(itemData);
+    @PutMapping("/update/{id}")
+    public String updateItem(@PathVariable Integer id, @RequestBody ItemDTO itemData){
+        return itemService.updateItem(id, itemData);
     }
 
     @GetMapping("/find/{id}")
@@ -39,4 +39,5 @@ public class Item {
     public String deleteItem(@PathVariable Integer id){
         return itemService.deleteItem(id);
     }
+
 }

@@ -8,12 +8,28 @@ public class ItemDTO {
 
      @Id
      @GeneratedValue(strategy = GenerationType.AUTO)
+     @Column(name = "item_id")
      private Integer item_id;
+
+     @Column(name="item_name")
      private String item_name;
+
+     @Column(name="item_model")
+     private String model_name;
+
+     @Column(name="item_description")
      private String item_desc;
+
+     @Column(name="seller")
      private String seller;
+
+     @Column(name="stock")
      private Integer stock;
+
+     @Column(name="unit_price")
      private Double unit_price;
+
+     @Column(name="status")
      private boolean status;
 
      public Integer getItem_id() {
@@ -32,7 +48,15 @@ public class ItemDTO {
         this.item_name = item_name;
     }
 
-     public String getItem_desc() {
+    public String getModel_name() {
+        return model_name;
+    }
+
+    public void setModel_name(String model_name) {
+        this.model_name = model_name;
+    }
+
+    public String getItem_desc() {
         return item_desc;
     }
 

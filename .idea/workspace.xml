@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="e0ccf68f-e714-404c-94d5-28e1b98a9b79" name="Default" comment="" />
+=======
     <list default="true" id="e0ccf68f-e714-404c-94d5-28e1b98a9b79" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Paments.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/PamentDTO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/PamentRepository.java" afterDir="false" />
@@ -29124,7 +29128,24 @@
       <change beforePath="$PROJECT_DIR$/target/classes/templates/src/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/templates/src/serviceWorker.js" beforeDir="false" />
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/UserServiceImpl.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ItemDTO.class" afterPath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ItemDTO.class" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
     </list>
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29150,6 +29171,7 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
@@ -29168,20 +29190,51 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1045#1046#0" expanded="true" />
                 <element signature="e#1096#1097#0" expanded="true" />
+=======
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+=======
+            <state relative-caret-position="271">
+              <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/PamentDTO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-102">
               <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+=======
+      <file leaf-file-name="ItemDTO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/PamentServices.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -29202,11 +29255,23 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+<<<<<<< HEAD
+=======
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29227,25 +29292,47 @@
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/stock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/StockService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/Stock.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/StockDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/StockRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/StockServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Stock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/ItemRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/ItemService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java" />
+<<<<<<< HEAD
+=======
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/ItemRepository.java" />
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/UserServiceImpl.java" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/UserService.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/PamentRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/PamentDTO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/PamentServices.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/PamentServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Paments.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/ItemRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/ItemService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/ItemServiceImpl.java" />
+=======
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
       </list>
     </option>
   </component>
@@ -29257,9 +29344,22 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="735" />
+=======
+<<<<<<< HEAD
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -29286,7 +29386,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="AndroidView" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -29311,10 +29415,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
             </path>
             <path>
               <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
               <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -29365,13 +29481,70 @@
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
               <item name="implementation" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SellNBy-e-commerce-system-PAF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="AndroidView" />
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -29385,8 +29558,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     <property name="project.structure.last.edited" value="Modules" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.35402298" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
@@ -29412,28 +29590,66 @@
     </option>
   </component>
   <component name="RunManager">
+<<<<<<< HEAD
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
+=======
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+      <method>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
       <method v="2">
+=======
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
+=======
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <module name="e-commerce-rest-full" />
       <extension name="coverage">
+=======
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <pattern>
           <option name="PATTERN" value="com.elitlabs.ecommerce.*" />
           <option name="ENABLED" value="true" />
@@ -29446,10 +29662,19 @@
     </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
+<<<<<<< HEAD
+=======
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
+<<<<<<< HEAD
       <method v="2">
+=======
+      <method>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -29457,8 +29682,13 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
+<<<<<<< HEAD
       <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
+=======
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -29483,13 +29713,46 @@
       <workItem from="1557691585168" duration="2342000" />
       <workItem from="1557726540347" duration="2829000" />
       <workItem from="1557739412962" duration="1401000" />
+<<<<<<< HEAD
       <workItem from="1557763147506" duration="19733000" />
       <workItem from="1557911843573" duration="1619000" />
+=======
+      <workItem from="1557743213851" duration="4784000" />
+      <workItem from="1557750623379" duration="584000" />
+      <workItem from="1557823772054" duration="3191000" />
+      <workItem from="1557849216510" duration="4705000" />
+      <workItem from="1557854142286" duration="7406000" />
+      <workItem from="1557888354106" duration="2628000" />
+<<<<<<< HEAD
+      <workItem from="1557894263376" duration="7238000" />
+      <workItem from="1557903807818" duration="113000" />
+      <workItem from="1557905896562" duration="4119000" />
+=======
+      <workItem from="1557894263376" duration="4940000" />
+<<<<<<< HEAD
+      <workItem from="1558153472903" duration="4019000" />
+=======
+      <workItem from="1558153472903" duration="400000" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="53775000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="64680000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="67191000" />
+=======
+    <option name="totallyTimeSpent" value="61061000" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -29501,8 +29764,84 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48355263" visible="true" weight="0.16979866" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.51644737" side_tool="true" weight="0.26096824" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6487252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41501418" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48355263" visible="true" weight="0.2442953" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.51644737" side_tool="true" weight="0.26096824" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6487252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.41501418" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+=======
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48355263" visible="true" weight="0.2859304" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
@@ -29538,11 +29877,85 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="right" id="Maven" order="10" />
       <window_info active="true" anchor="right" id="Coverage" order="11" side_tool="true" visible="true" weight="0.32980332" />
+=======
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5986842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82730263" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24468085" sideWeight="0.48355263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096824" sideWeight="0.51644737" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19546743" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41501418" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2409396" sideWeight="0.48355263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096824" sideWeight="0.51644737" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SellNBy_e_commerce_system_PAF$Application.ic" NAME="Application Coverage Results" MODIFIED="1557912139704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.elitlabs.ecommerce.*</FILTER>
@@ -29557,6 +29970,28 @@
             <element signature="imports" expanded="false" />
             <element signature="e#247#248#0" expanded="false" />
             <element signature="e#309#310#0" expanded="false" />
+=======
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#519#520#0" expanded="false" />
+            <element signature="e#563#564#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#790#791#0" expanded="false" />
+            <element signature="e#845#846#0" expanded="false" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
           </folding>
         </state>
       </provider>
@@ -29568,6 +30003,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.6.RELEASE/spring-data-jpa-2.1.6.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.6.RELEASE/spring-data-jpa-2.1.6.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/JpaRepositoryImplementation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
@@ -29617,10 +30053,122 @@
           <caret line="5" column="53" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.6.RELEASE/spring-data-jpa-2.1.6.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/JpaRepositoryImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/META-INF/context.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/frontend/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+<<<<<<< HEAD
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java">
+=======
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/ItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.6.RELEASE/spring-data-jpa-2.1.6.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="-784">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+=======
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="19" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+=======
+        <state relative-caret-position="-784">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="426">
+          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+=======
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+          <folding>
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1207#1208#0" expanded="true" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.6.RELEASE/spring-data-commons-2.1.6.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -29641,12 +30189,96 @@
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+=======
+        <state relative-caret-position="221">
+          <caret line="13" column="39" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+            <element signature="e#1205#1206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="290">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+=======
+        <state relative-caret-position="250">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#519#520#0" expanded="false" />
+            <element signature="e#563#564#0" expanded="false" />
+            <element signature="e#647#648#0" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#790#791#0" expanded="false" />
+            <element signature="e#845#846#0" expanded="false" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/ItemServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="646">
           <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
           <folding>
@@ -29660,28 +30292,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/ItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="51">
+          <caret line="3" column="61" lean-forward="false" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+=======
+<<<<<<< HEAD
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+=======
+        <state relative-caret-position="271">
+          <caret line="23" column="56" lean-forward="false" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+>>>>>>> e8941b7da2aecf274eca53834aac4143f32bdde1
+>>>>>>> a7d88f312b7da5fcd6a3875747c052c963134173
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/PamentDTO.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-102">
           <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+=======
+        <state relative-caret-position="-34">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="-126">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+        <state relative-caret-position="220">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1225#1226#0" expanded="true" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/PamentServices.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="187">
           <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
@@ -29694,12 +30368,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+=======
+        <state relative-caret-position="322">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Paments.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -29709,6 +30388,13 @@
             <element signature="e#1045#1046#0" expanded="true" />
             <element signature="e#1096#1097#0" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="17" />
+          <folding />
+>>>>>>> 65842cf042456a41a25fbfa3ecbb2394253d23f7
         </state>
       </provider>
     </entry>
@@ -29723,7 +30409,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
