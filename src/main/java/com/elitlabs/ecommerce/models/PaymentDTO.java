@@ -2,24 +2,24 @@ package com.elitlabs.ecommerce.models;
 import javax.persistence.*;
 
 @Entity
-@Table(name="pament")
-public class PamentDTO {
+@Table(name="payment")
+public class PaymentDTO {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
 
-    @Column(name = "pament_id")
+    @Column(name = "pamyent_id")
     private Integer P_id;
 
-    @Column(name = "pament_date")
+    @Column(name = "pamyent_date")
     private String P_date;
 
-    @Column(name = "pament_price")
+    @Column(name = "pamyent_price")
     private String p_price;
 
-    @Column(name = "pament_CustomerDetails")
+    @Column(name = "pamyent_CustomerDetails")
     private String p_CustomerDetails;
 
-    @Column(name = "pament_SellerDetails")
+    @Column(name = "pamyent_SellerDetails")
     private String p_SellerDetails;
 
 
