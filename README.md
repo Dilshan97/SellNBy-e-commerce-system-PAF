@@ -1,15 +1,14 @@
 
-**Sell-N-Buy | e-commerce Project** 
+# Sell-N-Buy | e-commerce Project 
 
 This Project based on the 3 Year Programming Application and Frameworks Module. 
 
 **This project include 5 REST full web services** .
- - List item
- - user authentication
- - items
- - payments
- - customer reviews
- - admin
+ - Item Service
+ - user authentication Service
+ - payment Service
+ - customer reviews Service
+ - admin Service
 
 **Technologies, libraries and tools used for this project**
 
