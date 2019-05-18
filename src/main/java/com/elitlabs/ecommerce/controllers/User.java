@@ -1,5 +1,6 @@
-package com.elitlabs.ecommerce.controllers;
+/*Author Nuwan Chamikara*/
 
+package com.elitlabs.ecommerce.controllers;
 
 import com.elitlabs.ecommerce.models.UserDTO;
 import com.elitlabs.ecommerce.services.UserService;
