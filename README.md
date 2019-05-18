@@ -26,7 +26,7 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
  
  **Tools**
  - Intellij IDEA
- - WebStrome
+ - WebStorm
  - Postman
  - xampp Server
 
