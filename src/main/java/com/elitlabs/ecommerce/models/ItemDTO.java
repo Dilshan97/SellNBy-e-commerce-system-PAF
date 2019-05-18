@@ -14,6 +14,9 @@ public class ItemDTO {
      @Column(name="item_name")
      private String item_name;
 
+     @Column(name="item_model")
+     private String model_name;
+
      @Column(name="item_description")
      private String item_desc;
 
@@ -45,7 +48,15 @@ public class ItemDTO {
         this.item_name = item_name;
     }
 
-     public String getItem_desc() {
+    public String getModel_name() {
+        return model_name;
+    }
+
+    public void setModel_name(String model_name) {
+        this.model_name = model_name;
+    }
+
+    public String getItem_desc() {
         return item_desc;
     }
 

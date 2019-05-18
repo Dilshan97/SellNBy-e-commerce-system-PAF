@@ -11,7 +11,7 @@ public interface ItemService {
 
     String saveItem(ItemDTO itemData);
 
-    String updateItem(ItemDTO itemData);
+    String updateItem(Integer id, ItemDTO itemData);
 
     Optional<ItemDTO> searchItem(Integer id);
 

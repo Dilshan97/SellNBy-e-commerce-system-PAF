@@ -28,11 +28,11 @@ public class ItemServiceImpl implements ItemService {
     }
 
     @Override
-    public String updateItem(ItemDTO itemData) {
+    public String updateItem(Integer id, ItemDTO itemData) {
 
         String msg = null;
 
-        if (itemData.getItem_id() != null){
+        if (itemRepository.findById(id) != null){
             itemRepository.save(itemData);
             msg = "Item Updated";
         }
