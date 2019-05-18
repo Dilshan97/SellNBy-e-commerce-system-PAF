@@ -8,12 +8,25 @@ public class ItemDTO {
 
      @Id
      @GeneratedValue(strategy = GenerationType.AUTO)
+     @Column(name = "item_id")
      private Integer item_id;
+
+     @Column(name="item_name")
      private String item_name;
+
+     @Column(name="item_description")
      private String item_desc;
+
+     @Column(name="seller")
      private String seller;
+
+     @Column(name="stock")
      private Integer stock;
+
+     @Column(name="unit_price")
      private Double unit_price;
+
+     @Column(name="status")
      private boolean status;
 
      public Integer getItem_id() {
