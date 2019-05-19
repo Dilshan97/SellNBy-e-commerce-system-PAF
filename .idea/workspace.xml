@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f85eb5-ad76-4b20-9b19-b519ebb040ea" name="Default" comment="" />
+    <list default="true" id="94f85eb5-ad76-4b20-9b19-b519ebb040ea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/e_commerce_rest_full_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/e_commerce_rest_full_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Documentation/Individual Reports/IT17135412 - Kumara W.D.R.P. - N3A-161 (Group N3A-G12) .docx" afterPath="$PROJECT_DIR$/Documentation/Individual Reports/IT17135412 - Kumara W.D.R.P. - N3A-161 (Group N3A-G12) .docx" />
+      <change beforePath="$PROJECT_DIR$/e-commerce-rest-full.iml" afterPath="$PROJECT_DIR$/e-commerce-rest-full.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ItemDTO.class" afterPath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ItemDTO.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +21,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ItemServiceTestClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/test/ItemServiceTestClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,10 +59,15 @@
         <option value="$PROJECT_DIR$/Frontend/src/App.js" />
         <option value="$PROJECT_DIR$/Frontend/src/components/navbar.js" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/AdminDTO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Admin.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/test/ItemServiceTestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/ItemServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -53,9 +81,9 @@
     <handled-path value="$PROJECT_DIR$/Frontend/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-1374" />
     <option name="y" value="-8" />
-    <option name="width" value="1376" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -75,8 +103,33 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="e-commerce-rest-full" type="1abcf292:AndroidViewProjectNode" />
+              <item name="e-commerce-rest-full" type="1039202d:NonAndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="e-commerce-rest-full" type="58d84e3e:PackageViewProjectNode" />
+              <item name="e-commerce-rest-full" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="e-commerce-rest-full" type="58d84e3e:PackageViewProjectNode" />
+              <item name="e-commerce-rest-full" type="616d4139:PackageViewModuleNode" />
+              <item name="com.elitlabs.ecommerce" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,6 +172,33 @@
               <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="e-commerce-rest-full" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e-commerce-rest-full" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e-commerce-rest-full" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SellNBy-e-commerce-system-PAF 1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ecommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -131,13 +211,19 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dilshan Ramesh\Documents\Inteliji\SellNBy-e-commerce-system-PAF 1\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ItemServiceTestClient.find">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -172,6 +258,81 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="ItemServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.elitlabs.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="e-commerce-rest-full" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.elitlabs.ecommerce" />
+      <option name="MAIN_CLASS_NAME" value="com.elitlabs.ecommerce.ItemServiceApplicationTests" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ItemServiceTestClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.elitlabs.ecommerce.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="e-commerce-rest-full" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.elitlabs.ecommerce.test" />
+      <option name="MAIN_CLASS_NAME" value="com.elitlabs.ecommerce.test.ItemServiceTestClient" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ItemServiceTestClient.find" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.elitlabs.ecommerce.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="e-commerce-rest-full" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.elitlabs.ecommerce.test" />
+      <option name="MAIN_CLASS_NAME" value="com.elitlabs.ecommerce.test.ItemServiceTestClient" />
+      <option name="METHOD_NAME" value="find" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -244,9 +405,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ItemServiceApplicationTests" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ItemServiceTestClient" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ItemServiceTestClient.find" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ItemServiceTestClient.find" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ItemServiceTestClient" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ItemServiceApplicationTests" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +435,7 @@
       <updated>1558164930624</updated>
       <workItem from="1558164932302" duration="2994000" />
       <workItem from="1558187491346" duration="10101000" />
-      <workItem from="1558239443324" duration="2983000" />
+      <workItem from="1558239443324" duration="17682000" />
     </task>
     <task id="LOCAL-00001" summary="Admin service classes created">
       <created>1558239857526</created>
@@ -298,43 +468,76 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ItemServiceApplicationTests - 2019.05.19 at 15h 17m 02s.xml">
+      <configuration name="ItemServiceApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient - 2019.05.19 at 15h 17m 17s.xml">
+      <configuration name="ItemServiceTestClient" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 33m 46s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 35m 43s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 38m 07s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 38m 59s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 40m 29s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 41m 20s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 42m 42s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemServiceTestClient_find - 2019.05.19 at 15h 43m 11s.xml">
+      <configuration name="ItemServiceTestClient.find" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16078000" />
+    <option name="totallyTimeSpent" value="30777000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-1374" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.70888156" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50986844" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5690789" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22644377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.70888156" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5690789" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28139183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,30 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -414,14 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/repositories/PaymentRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -435,16 +606,6 @@
         <state relative-caret-position="34">
           <caret line="2" column="31" lean-forward="false" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -464,24 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -493,16 +636,220 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://MODULES/mdl-e-commerce-rest-full">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-e-commerce-rest-full</OriginalElement>
+          <nodes>
+            <node x="" y="">lib-Maven: org.aspectj:aspectjweaver:1.9.2</node>
+            <node x="" y="">lib-Maven: net.bytebuddy:byte-buddy:1.9.12</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-web:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: javax.xml.bind:jaxb-api:2.3.1</node>
+            <node x="" y="">lib-Maven: org.apache.tomcat.embed:tomcat-embed-el:9.0.17</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.core:jackson-databind:2.9.8</node>
+            <node x="" y="">lib-Maven: javax.activation:javax.activation-api:1.2.0</node>
+            <node x="" y="">lib-Maven: org.javassist:javassist:3.23.1-GA</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.core:jackson-core:2.9.8</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-json:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-aspects:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.jboss.logging:jboss-logging:3.3.2.Final</node>
+            <node x="" y="">lib-Maven: org.slf4j:slf4j-api:1.7.26</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-jdbc:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-orm:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.yaml:snakeyaml:1.23</node>
+            <node x="" y="">lib-Maven: com.fasterxml:classmate:1.4.0</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-aop:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework.data:spring-data-jpa:2.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-logging:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: antlr:antlr:2.7.7</node>
+            <node x="" y="">lib-Maven: org.slf4j:jul-to-slf4j:1.7.26</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8</node>
+            <node x="" y="">mdl-e-commerce-rest-full</node>
+            <node x="" y="">lib-Maven: org.apache.tomcat.embed:tomcat-embed-websocket:9.0.17</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: ch.qos.logback:logback-core:1.2.3</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-core:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.hibernate:hibernate-core:5.3.9.Final</node>
+            <node x="" y="">lib-Maven: org.hibernate.common:hibernate-commons-annotations:5.0.4.Final</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-aop:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework.data:spring-data-commons:2.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: mysql:mysql-connector-java:8.0.15</node>
+            <node x="" y="">lib-Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.17</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-jcl:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: javax.transaction:javax.transaction-api:1.3</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-data-jpa:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.9.8</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-autoconfigure:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-context:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-webmvc:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-jdbc:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.dom4j:dom4j:2.1.1</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-expression:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.apache.logging.log4j:log4j-api:2.11.2</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.apache.logging.log4j:log4j-to-slf4j:2.11.2</node>
+            <node x="" y="">lib-Maven: com.zaxxer:HikariCP:3.2.0</node>
+            <node x="" y="">lib-Maven: javax.persistence:javax.persistence-api:2.2</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-tx:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.hibernate.validator:hibernate-validator:6.0.16.Final</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-web:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: org.springframework.boot:spring-boot-starter-tomcat:2.1.4.RELEASE</node>
+            <node x="" y="">lib-Maven: org.jboss:jandex:2.0.5.Final</node>
+            <node x="" y="">lib-Maven: javax.annotation:javax.annotation-api:1.3.2</node>
+            <node x="" y="">lib-Maven: ch.qos.logback:logback-classic:1.2.3</node>
+            <node x="" y="">lib-Maven: org.springframework:spring-beans:5.1.6.RELEASE</node>
+            <node x="" y="">lib-Maven: javax.validation:validation-api:2.0.1.Final</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="98.0" y="134.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Test dependencies</Category>
+            <Category>Libraries</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com.elitlabs.ecommerce/ItemAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.elitlabs.ecommerce/ItemRestTestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Payment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/UserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/PaymentDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ItemDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/implementation/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Admin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/services/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/controllers/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/ItemServiceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="6" lean-forward="false" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/test/ItemServiceTestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="38" column="61" lean-forward="true" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
           </folding>
         </state>
       </provider>

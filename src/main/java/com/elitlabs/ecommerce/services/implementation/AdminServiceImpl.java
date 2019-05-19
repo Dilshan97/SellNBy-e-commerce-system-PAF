@@ -6,9 +6,11 @@ import com.elitlabs.ecommerce.repositories.PaymentRepository;
 import com.elitlabs.ecommerce.repositories.UserRepository;
 import com.elitlabs.ecommerce.services.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class AdminServiceImpl implements AdminService{
 
     @Autowired
