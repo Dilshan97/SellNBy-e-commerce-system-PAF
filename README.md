@@ -64,7 +64,7 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
 	    
   - Run Spring boot application.
 	    
-  - Then type npm start. It will automatically open.
+  - Then type `npm start`. It will automatically open.
   
   
   **File Structure**
