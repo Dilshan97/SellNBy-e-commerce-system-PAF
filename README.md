@@ -46,11 +46,10 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
  - [https://www.tutorialspoint.com/jpa/](https://www.tutorialspoint.com/jpa/)
 	 
  
-   **User Manual**
+ **User Manual**
    
-   Before use this repository please fallow the steps in the below.
-   
-   Note - *This system needs to xampp server, Apache tomcat 8.5, nodejs and jdk.*
+ Before use this repository please fallow the steps in the below.
+ Note - *This system needs to xampp server, Apache tomcat 8.5, nodejs and jdk.*
     
   - First Clone this repository. 
          `git clone https://github.com/Dilshan97/SellNBy-e-commerce-system-PAF.git ` 
