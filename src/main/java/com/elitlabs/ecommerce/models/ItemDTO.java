@@ -32,7 +32,20 @@ public class ItemDTO {
      @Column(name="status")
      private boolean status;
 
-     public Integer getItem_id() {
+    public ItemDTO() {
+    }
+
+    public ItemDTO(String item_name, String model_name, String item_desc, String seller, Integer stock, Double unit_price, boolean status) {
+        this.item_name = item_name;
+        this.model_name = model_name;
+        this.item_desc = item_desc;
+        this.seller = seller;
+        this.stock = stock;
+        this.unit_price = unit_price;
+        this.status = status;
+    }
+
+    public Integer getItem_id() {
         return item_id;
     }
 
