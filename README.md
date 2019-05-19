@@ -46,5 +46,20 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
  - [https://www.tutorialspoint.com/jpa/](https://www.tutorialspoint.com/jpa/)
 	 
  
+   **User Manual**
    
- 
+   Before use this repository please fallow the steps in the below.
+   
+   Note - This system needs to xampp server, Apache tomcat 8.5, nodejs and jdk.
+    
+    First Clone this repository.
+    
+    Then open file system using Intellij IDEA.
+    
+    Go to the Frontend folder cd frontend.
+    
+    Type npm install and hit enter.
+    
+    Run Spring boot application.
+    
+    Then type npm start. It will automatically open.
