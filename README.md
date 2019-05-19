@@ -67,3 +67,7 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
   - Then type npm start. It will automatically open.
   
   
+  **File Structure**
+  
+  ![enter image description here](https://lh3.googleusercontent.com/gH5ICneEoK7MMp3woBywF7pBwu_hSn-kwaEOb_S9ACiqaN9Z7UyRQubHo7WELWVc1sovi2FnjutD)
+	
