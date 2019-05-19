@@ -50,16 +50,21 @@ This Project based on the 3 Year Programming Application and Frameworks Module.
    
    Before use this repository please fallow the steps in the below.
    
-   Note - This system needs to xampp server, Apache tomcat 8.5, nodejs and jdk.
+   Note - *This system needs to xampp server, Apache tomcat 8.5, nodejs and jdk.*
     
-  - First Clone this repository.
+  - First Clone this repository. 
+         `git clone https://github.com/Dilshan97/SellNBy-e-commerce-system-PAF.git ` 
     
   - Then open file system using Intellij IDEA.
     
-  - Go to the Frontend folder cd frontend.
+  - Go to the Frontend folder. 
+          `cd frontend`
     
-  - Type npm install and hit enter.
-    
+  - Type npm install and hit enter. 
+          `npm install`
+	    
   - Run Spring boot application.
-    
+	    
   - Then type npm start. It will automatically open.
+  
+  
