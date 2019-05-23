@@ -18,6 +18,8 @@ class navbar extends Component {
                   <div className="navbar-nav">
                     <Link className="nav-item nav-link" to="/">Home</Link>
                     <Link className="nav-item nav-link" to="/add-item">Add Item</Link>
+                    <Link className="nav-item nav-link" to="/login">Login</Link>
+                    <Link className="nav-item nav-link" to="/signup">Sign Up</Link>
                   </div>
                 </div>
               </nav>
