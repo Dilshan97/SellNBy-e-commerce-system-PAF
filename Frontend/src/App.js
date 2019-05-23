@@ -8,6 +8,7 @@ import Add_item from './components/add_item';
 import Edit_item from './components/edit_item';
 import Login from './components/login';
 import Signup from './components/sign_up';
+import Product from './components/product';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
               <Route path='/edit/:item_id' component={Edit_item}/> 
               <Route path='/login' component={Login}/>
               <Route path='/signup' component={Signup}/>
+              <Route path='/product/:item_id' component={Product}/>
 
 
           </div>
