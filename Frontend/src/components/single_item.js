@@ -61,7 +61,7 @@ class single_item extends Component {
     render() {
         return (
             
-                <div className="item col-xs-4 col-lg-4" id="item">
+                <div className="item col-xs-4 col-lg-4" id="item" onClick={this.product}>
                     <div className="thumbnail card">
                         <div className="img-event">
                             <img className="group list-group-image img-fluid" src="http://placehold.it/400x250/000/fff" alt="" />
@@ -80,7 +80,8 @@ class single_item extends Component {
                                 </div>
                                 <div className="col-xs-12 col-md-6">
                                     <button className="btn btn-danger btn-sm" onClick={this.delete}><i className="fas fa-trash-alt"></i></button>&nbsp;
-                                    <Link className="btn btn-warning btn-sm" to={"/edit/" + this.props.obj.item_id}><i className="fas fa-edit"></i></Link>
+                                    <Link className="btn btn-warning btn-sm" to={"/edit/" + this.props.obj.item_id}><i className="fas fa-edit"></i></Link>&nbsp;
+                                    <Link className="btn btn-success btn-sm" to={"/product/" + this.props.obj.item_id}><i class="fas fa-cart-plus"></i></Link>
                                 </div>
                             </div>
                         </div>

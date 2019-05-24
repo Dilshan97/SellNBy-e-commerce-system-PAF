@@ -1,6 +1,5 @@
 package com.elitlabs.ecommerce.models;
 
-import org.hibernate.annotations.Table;
 import javax.persistence.*;
 
 @Entity
@@ -9,20 +8,27 @@ public class ReviewDTO {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
+    @Column(name = "review_id")
     private Integer review_id;
+
+    @Column(name = "product")
     private String review_product_name;
+
+    @Column(name = "seller")
     private String seller_name;
+
+    @Column(name = "reviews")
     private String review_marks;
 
     public Integer getReview_id() {
         return review_id;
     }
 
-    public void setreview_id(Integer review_id) {
+    public void setReview_id(Integer review_id) {
         this.review_id = review_id;
     }
 
-    public String getreview_product_name() {
+    public String getReview_product_name() {
         return review_product_name;
     }
 
@@ -30,23 +36,19 @@ public class ReviewDTO {
         this.review_product_name = review_product_name;
     }
 
-    public String getseller_name() {
+    public String getSeller_name() {
         return seller_name;
     }
 
-    public void setseller_name(String seller_name) {
+    public void setSeller_name(String seller_name) {
         this.seller_name = seller_name;
     }
 
-    public String getreview_marks() {
+    public String getReview_marks() {
         return review_marks;
     }
 
-    public void setreview_marks(String review_marks) {
+    public void setReview_marks(String review_marks) {
         this.review_marks = review_marks;
     }
-
-
-
-
 }
