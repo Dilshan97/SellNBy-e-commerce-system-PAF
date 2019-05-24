@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ae1190b-892a-444f-ae6b-5f2e70e3b369" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Frontend/src/components/product.js" afterPath="$PROJECT_DIR$/Frontend/src/components/product.js" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ReviewDTO.java" afterPath="$PROJECT_DIR$/src/main/java/com/elitlabs/ecommerce/models/ReviewDTO.java" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ReviewDTO.class" afterPath="$PROJECT_DIR$/target/classes/com/elitlabs/ecommerce/models/ReviewDTO.class" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -293,12 +295,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558626846930</updated>
       <workItem from="1558626848563" duration="2641000" />
-      <workItem from="1558682367502" duration="2877000" />
+      <workItem from="1558682367502" duration="3246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5518000" />
+    <option name="totallyTimeSpent" value="5887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
