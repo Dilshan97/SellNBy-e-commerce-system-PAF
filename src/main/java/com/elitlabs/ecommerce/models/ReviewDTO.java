@@ -11,6 +11,9 @@ public class ReviewDTO {
     @Column(name = "review_id")
     private Integer review_id;
 
+    @Column(name = "item_id")
+    private String item_id;
+
     @Column(name = "product")
     private String review_product_name;
 
@@ -50,5 +53,13 @@ public class ReviewDTO {
 
     public void setReview_marks(String review_marks) {
         this.review_marks = review_marks;
+    }
+
+    public String getItem_id() {
+        return item_id;
+    }
+
+    public void setItem_id(String item_id) {
+        this.item_id = item_id;
     }
 }
